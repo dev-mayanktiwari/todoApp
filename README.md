@@ -1,6 +1,6 @@
 # This is a simple TODO application.
 
-## It has following feautres:
+## It has following features:
 
 - a user can signup.
 - a user can signin.
